@@ -34,6 +34,9 @@ What internet says about *Kazakhstan*?
 This is the [link](https://aboutkazakhstan.com/blog/entertainment/12-interesting-facts-about-kazakhstan/) to more facts!
 This is how nature looks in my city - Almaty:
 ![Kazakhstan nature](https://www.advantour.com/img/kazakhstan/images/nature.jpg) 
+
+## Hobbies
+Since childhood I was doing a lot of sports. I also was interested in gender inequality, corruption problems, and new innovations!
 My hobbies are:
 - dancing
 * reading
