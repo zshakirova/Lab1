@@ -33,6 +33,7 @@ What internet says about *Kazakhstan*?
 
 
 This is the [link](https://aboutkazakhstan.com/blog/entertainment/12-interesting-facts-about-kazakhstan/) to more facts!
+
 This is how nature looks in my city - Almaty:
 ![Kazakhstan nature](https://www.advantour.com/img/kazakhstan/images/nature.jpg) 
 
