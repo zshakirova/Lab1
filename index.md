@@ -27,10 +27,10 @@ I'm *trilingual*, so I know
 2. Kazakh
 3. English
 What internet says about *Kazakhstan*?
-> Kazakhstan is the world's ninth-largest country by land area and the largest landlocked country. 
+> Kazakhstan is the world's ninth-largest country by land area and the largest landlocked country. >
 This is the [link](https://aboutkazakhstan.com/blog/entertainment/12-interesting-facts-about-kazakhstan/) to more facts!
 This is how nature looks in my city - Almaty:
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.peek.com%2Fkz%2Falmaty_region%2Fnature-wildlife%2Fc0e6q&psig=AOvVaw1gYjqACM5IMKP1PA5SJxEe&ust=1712465860783000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCc-8_mrIUDFQAAAAAdAAAAABBb) 
+[](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.peek.com%2Fkz%2Falmaty_region%2Fnature-wildlife%2Fc0e6q&psig=AOvVaw1gYjqACM5IMKP1PA5SJxEe&ust=1712465860783000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCc-8_mrIUDFQAAAAAdAAAAABBb) 
 My hobbies are:
 - dancing
 * reading
