@@ -4,7 +4,7 @@
 ### In this webpage I'll tell about myself as a programmer and as a person
 
 
-I was born and raised in **Kazakhstan** - country in ~Central Asia~.
+I was born and raised in **Kazakhstan** - country in Central Asia.
 [Kazakhstan Flag](Flag-Kazakhstan.webp)
 
 
@@ -18,7 +18,7 @@ What internet says about *Kazakhstan*?
 
 
 
-This is the [link](https://aboutkazakhstan.com/blog/entertainment/12-interesting-facts-about-kazakhstan/) to more facts!
+This is the [link](https://aboutkazakhstan.com/blog/entertainment/12-interesting-facts-about-kazakhstan/) to more <sup>facts</sup>!
 
 This is how nature looks in my city - Almaty:
 ![Kazakhstan nature](https://www.advantour.com/img/kazakhstan/images/nature.jpg) 
