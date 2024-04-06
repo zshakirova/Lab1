@@ -43,6 +43,9 @@ My hobbies are:
 - dancing
 * reading
 + surfing
++ skiing
+
+![Surfing](https://www.tripsavvy.com/thmb/IuDmUH3ckuG9LF1SaYGQyTSDI8k=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-125012479-627485a1938a4552a3a2ae529d0e05fe.jpg)
 
 ## Programming experience
 ### I'm also a programmer. I have an experience in
