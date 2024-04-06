@@ -19,12 +19,12 @@ Task lists
 
 
 I was born and raised in **Kazakhstan** - country in Central Asia.
+[Flag of Kazakhstan](Lab1/Flag-Kazakhstan.webp)
+
 I'm trilingual, so I know *Russian*, *Kazakh*, and *English*
 What internet says about Kazakhstan?
 > Kazakhstan is the world's ninth-largest country by land area and the largest landlocked country.
 This is the [link](https://aboutkazakhstan.com/blog/entertainment/12-interesting-facts-about-kazakhstan/) to more facts! 
-
-[Programming experience](#Programming experience)
 
 
 ## Programming experience
