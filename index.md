@@ -20,5 +20,10 @@ I was born and raised in **Kazakhstan** - country in Central Asia.
 I'm trilingual, so I know *Russian*, *Kazakh*, and *English*
 What internet says about Kazakhstan?
 > Kazakhstan is the world's ninth-largest country by land area and the largest landlocked country.
+```
+git status
+git add
+git commit
+```
 This is the [link](https://aboutkazakhstan.com/blog/entertainment/12-interesting-facts-about-kazakhstan/) to more facts! 
 I'm also a programmer. I have an experience in Python, Java, C++.
