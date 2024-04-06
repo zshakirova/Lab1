@@ -22,11 +22,19 @@ I was born and raised in **Kazakhstan** - country in Central Asia.
 [Kazakhstan Flag](Flag-Kazakhstan.webp)
 
 
-I'm trilingual, so I know *Russian*, *Kazakh*, and *English*
-What internet says about Kazakhstan?
-> Kazakhstan is the world's ninth-largest country by land area and the largest landlocked country.
-This is the [link](https://aboutkazakhstan.com/blog/entertainment/12-interesting-facts-about-kazakhstan/) to more facts! 
-
+I'm *trilingual*, so I know
+1. Russian
+2. Kazakh
+3. English
+What internet says about *Kazakhstan*?
+> Kazakhstan is the world's ninth-largest country by land area and the largest landlocked country. 
+This is the [link](https://aboutkazakhstan.com/blog/entertainment/12-interesting-facts-about-kazakhstan/) to more facts!
+This is how nature looks in my city - Almaty:
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.peek.com%2Fkz%2Falmaty_region%2Fnature-wildlife%2Fc0e6q&psig=AOvVaw1gYjqACM5IMKP1PA5SJxEe&ust=1712465860783000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCc-8_mrIUDFQAAAAAdAAAAABBb) 
+My hobbies are:
+- dancing
+* reading
++ surfing
 
 ## Programming experience
 ### I'm also a programmer. I have an experience in
@@ -36,5 +44,12 @@ Java
 C
 C++
 ```
-What are the programming languages?
 
+
+I want to learn more about:
+- [ ] Web and app development
+- [ ] Software engineering 
+- [ ] Project managemnt 
+- [ ] Artificial Intelligence 
+
+  
