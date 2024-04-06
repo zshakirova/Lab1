@@ -19,7 +19,8 @@ Task lists
 
 
 I was born and raised in **Kazakhstan** - country in Central Asia.
-[Flag of Kazakhstan](Lab1/Flag-Kazakhstan.webp)
+![Kazakhstan Flag](Flag-Kazakhstan.webp)
+
 
 I'm trilingual, so I know *Russian*, *Kazakh*, and *English*
 What internet says about Kazakhstan?
