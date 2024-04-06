@@ -19,7 +19,7 @@ Task lists
 
 
 I was born and raised in **Kazakhstan** - country in Central Asia.
-![Kazakhstan Flag](Flag-Kazakhstan.webp)
+[Kazakhstan Flag](Flag-Kazakhstan.webp)
 
 
 I'm trilingual, so I know *Russian*, *Kazakh*, and *English*
