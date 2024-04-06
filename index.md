@@ -4,7 +4,7 @@
 ### In this webpage I'll tell about myself as a programmer and as a person
 
 
-I was born and raised in **Kazakhstan** - country in Central Asia.
+I was born and raised in **Kazakhstan** - country in ~Central Asia~.
 [Kazakhstan Flag](Flag-Kazakhstan.webp)
 
 
