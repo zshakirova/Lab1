@@ -16,14 +16,24 @@ Task lists
 # Zhamilya Shakirova
 ## Welcome to my web page!
 ### In this webpage I'll tell about myself as a programmer and as a person
+
+
 I was born and raised in **Kazakhstan** - country in Central Asia.
 I'm trilingual, so I know *Russian*, *Kazakh*, and *English*
 What internet says about Kazakhstan?
 > Kazakhstan is the world's ninth-largest country by land area and the largest landlocked country.
-```
-git status
-git add
-git commit
-```
 This is the [link](https://aboutkazakhstan.com/blog/entertainment/12-interesting-facts-about-kazakhstan/) to more facts! 
-I'm also a programmer. I have an experience in Python, Java, C++.
+
+[Programming experience](#Programming experience)
+
+
+## Programming experience
+### I'm also a programmer. I have an experience in
+```
+Python
+Java
+C
+C++
+```
+What are the programming languages?
+
